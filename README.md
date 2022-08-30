@@ -1,0 +1,1 @@
+# Style_Sheet_ReactNative: is a way of styling an application using JavaScript code, the main function of react native StyleSheet is concerned with styling and structuring of components in an application, all components of react native make use of a prop known as style, names and properties values work in a similar ways.
